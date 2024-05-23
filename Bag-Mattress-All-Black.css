@@ -313,6 +313,14 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    width: auto;
+  }
 } .u-section-2 {
   min-height: 393px;
 }
